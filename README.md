@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 ## A little more about me...  
 
-- 🌱 I am an embedded linux developer
+- 🌱 I am an embedded linux developer, interested in yocto build system and shell scripting. 
 - 👯 I’m looking for something new or some collaboration with yocto project.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: samar.benali@istic.ucar.tn
@@ -18,15 +18,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 # <b>Languages and Tools : </b>
 <p align="left">
-<!-- vs code -->
- <a 
-    href="https://code.visualstudio.com/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-        alt="VS code" width="40" height="40"
-    /> 
- </a> 
+
  <!-- c -->
  <a
     href="https://www.cprogramming.com/" 
@@ -64,7 +56,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
- </a>
+ <!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a> 
   <!-- linux -->
  <a 
     href="https://www.linux.org/"
@@ -84,7 +84,33 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     /> 
  </a> 
  
- 
+ ## <b>Connect with me by :</b>
+<p>
+<!-- Github -->
+<a 
+    target="_blank" 
+    href="https://github.com/Benali-Samar">
+    <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    </img>    
+</a>
+<!-- LinkedIn -->
+<a 
+    target="_blank"
+    href="https://www.linkedin.com/in/ben-ali-samar-721b66169/">
+    <img
+        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </img>
+</a>
+<br>
+<!-- GMail -->
+<a 
+    target="_blank" 
+    href="mailto:samar.benali@istic.ucar.tn">
+    <img
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </img>    
+</a>
  
  
  
