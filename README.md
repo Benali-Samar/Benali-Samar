@@ -84,6 +84,9 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     /> 
  </a> 
  <br>
+ </p> 
+
+---
  
  ## <b>Connect with me by :</b>
 <p>
