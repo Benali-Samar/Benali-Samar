@@ -11,14 +11,13 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: samar.benali@istic.ucar.tn
 
- <em><b>Welcome! please feel free to share :)</b></em>
+ <em><b> Welcome! please feel free to share :)</b></em>
 
 
 <br>
 
 # <b>Languages and Tools : </b>
 <p align="left">
-
  <!-- c -->
  <a
     href="https://www.cprogramming.com/" 
@@ -37,7 +36,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="cplusplus" width="40" height="40"
     /> 
  </a>
-  </a> 
  <!-- Python -->
  <a 
     href="https://www.python.org"
