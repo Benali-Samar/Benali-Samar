@@ -77,7 +77,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     href="https://gcc.gnu.org/"
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://icon-icons.com/fr/icone/gnu-logo/168163"
+        src="https://gcc.gnu.org/img/gccegg-65.png"
         width="40" height="40"
     /> 
  </a> 
