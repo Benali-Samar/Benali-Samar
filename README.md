@@ -97,14 +97,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  
  ## <b>Connect with me by :</b>
 <p>
-<!-- Github -->
-<a 
-    target="_blank" 
-    href="https://github.com/Benali-Samar">
-    <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    </img>    
-</a>
+
 <!-- LinkedIn -->
 <a 
     target="_blank"
