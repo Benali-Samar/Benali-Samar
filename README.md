@@ -7,8 +7,8 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 ## A little more about me...  
 
 - 🌱 I am an Embedded Linux Developer, interested in yocto build system, C prjects and shell scripting. 
-- 👯 I’m looking for something new or some collaboration with yocto project.
-- 🥅 Goals: Contribute more to C++ projects.
+- 👯 I’m looking for something new or some collaboration with yocto / automotive projects.
+- 🥅 Goals: Contribute more to automotive projects.
 - 📫 How to reach me: samar.benali@istic.ucar.tn
 
  <em><b> Welcome! please feel free to share :)</b></em>
