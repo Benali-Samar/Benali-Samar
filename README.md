@@ -113,7 +113,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  -->
  
  
- <h4 align="center"> 
+ <h4 align="right"> 
    Thanks for Visiting!
    <img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
   </h4>
