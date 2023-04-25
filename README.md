@@ -10,8 +10,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 -  I’m looking for something new or some collaboration with yocto / automotive projects.
 -  Reach me with: samar.benali@sofia-technologies.com|samar.benali@istic.ucar.tn
 
- <em><b> Welcome! please feel free to share :)</b></em>
-
 
 <br>
 
@@ -96,7 +94,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  <br>
  </p> 
  
- ## <b>Connect with me by :</b>
+ # <b>Connect with me by :</b>
 <p>
 
 <!-- LinkedIn -->
@@ -110,7 +108,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
- -->
+-->
  
  
  <h4 align="right"> 
