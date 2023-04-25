@@ -1,6 +1,6 @@
 <br>
 
-<img width="380" align="right" alt="Github"
+<img width="360" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
 
@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 -  I am an Embedded Linux Developer, interested in yocto build system, C prjects and shell scripting. 
 -  I’m looking for something new or some collaboration with yocto / automotive projects.
--  How to reach me: samar.benali@sofia-technologies.com | samar.benali@istic.ucar.tn
+-  Reach me with: samar.benali@sofia-technologies.com|samar.benali@istic.ucar.tn
 
  <em><b> Welcome! please feel free to share :)</b></em>
 
@@ -95,8 +95,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a> 
  <br>
  </p> 
-
----
  
  ## <b>Connect with me by :</b>
 <p>
