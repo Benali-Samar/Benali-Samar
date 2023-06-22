@@ -73,15 +73,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
-  <!-- GNU -->
- <a 
-    href="https://gcc.gnu.org/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://gcc.gnu.org/img/gccegg-65.png"
-        width="40" height="40"
-    /> 
- </a> 
+
  <!-- AI -->
  <a 
     href="https://opencv.org/"
