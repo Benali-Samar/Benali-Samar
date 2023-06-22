@@ -73,7 +73,6 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         width="40" height="40"
     /> 
  </a> 
-
  <!-- AI -->
  <a 
     href="https://opencv.org/"
