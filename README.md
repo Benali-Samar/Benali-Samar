@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 
 -  I am an Embedded Linux Developer, interested in yocto build system, C prjects and shell scripting. 
 -  I’m working on system programming, yet struggling to understand the linux kernel :/ 
--  Passionated with planet Saturn, galaxies, Black holes and space *-*
+-  Passionated with planet Saturn, galaxies, Black holes and space ^
 -  Reach me with: samar.benali@sofia-technologies.com|benali.samar26@gmail.com
 
 
