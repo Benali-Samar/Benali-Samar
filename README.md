@@ -1,4 +1,5 @@
-![Alt text](https://cdn.esawebb.org/archives/images/screen/weic2303a.jpg)
+![Alt text](https://cdn.esawebb.org/archives/images/screen/weic2303a.jpg | width=100)
+
 
 <br>
 <!--
