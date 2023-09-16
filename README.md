@@ -1,12 +1,6 @@
-![Alt text](https://cdn.esawebb.org/archives/images/screen/weic2303a.jpg | width=100)
-
+<img src="https://cdn.esawebb.org/archives/images/screen/weic2322a.jpg"  width="950" height="270">
 
 <br>
-<!--
-<img width="360" align="right" alt="Github"
-src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
-/> 
---!>
 
 ## A little more about me...  
 
@@ -98,6 +92,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
  </a> 
  <br>
  </p> 
+
 
  
  <p>
