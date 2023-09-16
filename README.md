@@ -1,4 +1,4 @@
-<img src="https://cdn.esawebb.org/archives/images/screen/weic2322a.jpg"  width="950" height="270">
+<img src="https://cdn.esawebb.org/archives/images/screen/weic2322a.jpg"  width="990" height="270">
 
 <br>
 
@@ -7,8 +7,8 @@
 -  I am an Embedded Linux Developer, interested in yocto build system and Linux device drivers development. 
 -  I’m working on system programming, yet struggling to understand the linux kernel :/ 
 -  Passionated with planet Saturn, galaxies, Black holes and space ^^  
--  Reach me with: samar.benali@sofia-technologies.com|benali.samar26@gmail.com
-
+-  Reach me with: samar.benali@sofia-technologies.com|benali.samar26@gmail.com <p align="left">
+<a href="https://www.linkedin.com/in/ben-ali-samar-721b66169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-ali-samar-721b66169" height="30" width="40" /></a>
 
 <br>
 
