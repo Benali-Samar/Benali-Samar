@@ -5,19 +5,26 @@
 
 ## 👋 Heeyy... 
 
+
+```bash
+samar.benali$ cowsay
+ _____________________________________
+/ Hello, World! I'm BenAli Samar A    \
+\ passionate Embedded Linux Developer /
+ -------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+```
+
+
+##   A little more about me... 
+
 ```c
 int main() {
-    puts("---Welcome to Samar's GitHub Profile!---");
-
-    puts("    +----------------------------------------+"   );
-    puts("    |     Hello, World! I'm BenAli Samar     |"   );
-    puts("    |  A passionate Embedded Linux Developer |"   );
-    puts("    |            from Tunisa!                |"   );
-    puts("    +----------------------------------------+"   );
-
-              /********************************************/
-              /*      A little more about me...           */
-              /********************************************/
 
     puts("  💻 Software Developer with a love for C and Linux.");
     puts("  🚀 Currently working on connecting HW to life.");
