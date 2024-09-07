@@ -9,7 +9,7 @@
 ```bash
 samar.benali$ cowsay
  _____________________________________
-/ Hello, World! I'm BenAli Samar A    \
+/ Hello, World! I am BenAli Samar A    \
 \ passionate Embedded Linux Developer /
  -------------------------------------
         \   ^__^
