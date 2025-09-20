@@ -5,24 +5,6 @@
 
 ## 👋 Heeyy... 
 
-
-```bash
-samar.benali$ cowsay
- _____________________________________
-/ Hello, World! I am BenAli Samar A    \
-\ passionate Embedded Linux Developer /
- -------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-```
-
-
-##   A little more about me... 
-
 ```c
 int main() {
 
@@ -35,9 +17,6 @@ int main() {
     puts("  🌐 GitHub: https://github.com/Benali-Samar");
     puts("  🔗 Linkedin: https://www.linkedin.com/in/ben-ali-samar-721b66169/");
     puts("  📧 Email: samar.benali26@gmail.com");
-
-    puts("💡 Fun Fact:");
-    puts("  I once (mostly) debugged a program with 2 hours of sleep! 😴💪 ");
 
     return 0;
 }
