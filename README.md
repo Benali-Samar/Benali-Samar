@@ -8,10 +8,10 @@
 ```c
 int main() {
 
-    puts("  💻 Software Developer with a love for C and Linux.");
+    puts("  💻 Embedded Linux Developer with a love for Linux.");
     puts("  🚀 Currently working on connecting HW to life.");
     puts("  🎯 Focused on building scalable and efficient software.");
-    puts("  ❓ Loves ✨ 🪐 🌙 🌌 ");
+    puts("  ❓ Loves ✨ 🪐  🌌 ");
     
     puts("Connect with Me:");
     puts("  🌐 GitHub: https://github.com/Benali-Samar");
@@ -24,15 +24,9 @@ int main() {
 
 
 
-# Skills : 
-- Languages: C/C++, Python, Bash
-- BuildSystems : Make/Cmake, yocto
-- Hardware: Nvidia jetson, RPI, Asus IOT
-
-
 
  
- 
+ <!--
  <h4 align="right"> 
    <img alt="By " src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width= "100">
   </h4>
